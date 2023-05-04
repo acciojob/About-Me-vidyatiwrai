@@ -1,1 +1,13 @@
 
+#profile_document{
+	display:flex;
+	gap:40px;
+}
+img{
+	height:100px;
+	width:100px;
+}
+.skil{
+	margin-top:20px;
+}
+
