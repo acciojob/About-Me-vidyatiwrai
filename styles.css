@@ -9,5 +9,12 @@ img{
 }
 .skil{
 	margin-top:20px;
+	font-weight:bold;
 }
-
+#about_me{
+	font-size:xx-large;
+	 text-decoration: underline  blue 2px;
+}
+#though{
+		 text-decoration: none;
+}
