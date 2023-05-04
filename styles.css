@@ -7,14 +7,23 @@ img{
 	height:100px;
 	width:100px;
 }
-.skil{
-	margin-top:20px;
+#skil{
+	margin-top:110px;
 	font-weight:bold;
+	margin-left:-354px;
 }
 #about_me{
 	font-size:xx-large;
 /* 	 text-decoration: underline  blue 2px; */
+	margin-left:300px
 }
 #though{
 		 text-decoration: none;
+}
+	#items{
+	display:flex;
+		margin-top:150px;
+		margin-left:-80px;
+		
+	
 }
